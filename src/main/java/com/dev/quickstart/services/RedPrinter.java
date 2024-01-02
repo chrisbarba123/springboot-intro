@@ -1,2 +1,5 @@
-package com.dev.quickstart.services.impl;public interface RedPrinter {
+package com.dev.quickstart.services;
+
+public interface RedPrinter {
+    String print();
 }

@@ -1,4 +1,5 @@
-package com.dev.quickstart.services.impl;
+package com.dev.quickstart.services;
 
-public class BluePrinter {
+public interface BluePrinter {
+    String print();
 }
